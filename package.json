@@ -1,0 +1,16 @@
+{
+  "name": "tugas-akhir-kripto",
+  "version": "1.0.0",
+  "description": "tugas akhir",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arfal",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "install": "^0.13.0",
+    "npm": "^8.10.0"
+  }
+}
